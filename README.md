@@ -1,10 +1,6 @@
 # Markdown Links
 
-<p align="center">
-  <img src="DEV10-MD-LINKS/img/md-links.png" alt="md-links">
-</p>
-
-[![md-links](./img/md-links.png "md-links")](./img/md-links.png "md-links")
+[![md-links](./img/md-links.png "md-links")](../img/md-links.png "md-links")
 
 ## Índice
 
