@@ -102,5 +102,7 @@ Se realizaron pruebas unitarias para la verificación del correcto funcionamient
 <a name="#7-Autora"></a>
 ### Autora
 
+### *Erika Roque*
+
 [![Erika](https://i.imgur.com/8ZSGppz.png "Erika")](https://i.imgur.com/8ZSGppz.png "Erika")
 
